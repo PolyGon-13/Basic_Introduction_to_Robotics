@@ -1,5 +1,4 @@
-# BasicRobotics_Introduction
-1학년 1학기 기초로봇공학개론
+# 기초로봇공학개론 프로젝트
 
 ## 코드
 ### 실행단계

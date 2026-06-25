@@ -1,4 +1,4 @@
-# Smart Water Purifier
+# Smart Water Purifier System
 
 [![YouTube Shorts](https://img.shields.io/badge/YouTube-Shorts-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/shorts/Z50hYHpfNMk?si=Zm4ChynOQBzc7cpG)
 
